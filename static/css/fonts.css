@@ -1,0 +1,154 @@
+*{
+    font-family: 'Helvetica Neue';
+font-style: normal;
+}
+
+/* fooeter */
+footer{
+    background-color: #255338;
+}
+.footer_container div:nth-child(1) h2{
+    font-family: 'Manrope';
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 41px;
+    color: #FBFBFB;
+}
+.footer_container div:nth-child(1) p{
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+color: #FFFFFF
+}
+.footer_container div:nth-child(1) input::placeholder{
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+color: #FFFFFF
+}
+.footer_container div:not(:nth-child(1)) h2{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF
+}
+.footer_container a{
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF
+}
+
+/* home page */
+.home_sect1_text h1{
+font-weight: 700;
+font-size: 44px;
+line-height: 54px;
+color: #000000;
+}
+.home_sect1_text div button a{
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+color: #FFFFFF
+}
+
+/* section 2 */
+.home_sect2 h2{
+font-weight: 500;
+font-size: 36px;
+line-height: 44px;
+text-transform: uppercase;
+color: #000000;
+}
+.home_sect2 div:nth-child(8) button{
+    font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+text-decoration-line: underline;
+color: #01601B;
+}
+.home_sect2_box button{
+font-weight: 500;
+font-size: 19px;
+line-height: 23px;
+color: #0F6845
+}
+
+/* background images */
+
+.home_sect2_box div:nth-child(2){
+font-weight: 500;
+font-size: 19px;
+line-height: 23px;
+color: #FFFFFF;
+}
+
+/* home section 3 */
+.home_sect3 h2{
+    font-weight: 500;
+font-size: 36px;
+line-height: 44px;
+text-transform: uppercase;
+color: #000000;
+}
+.home_sect3 h3{
+    font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+color: #000000;
+}
+.home_sect3 p{
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 20px;
+    letter-spacing: 0.03em;
+    color: #000000
+}
+.home_sect3 button{
+    font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+text-decoration-line: underline;
+color: #01601B
+}
+
+/* section 4 */
+.home_sect4 h2{
+    font-weight: 500;
+font-size: 36px;
+line-height: 44px;
+text-align: center;
+text-transform: uppercase;
+color: #000000
+}
+.home_sect4 p{
+font-size: 20px;
+line-height: 24px;
+color: #000000
+}
+
+/* contact page */
+.contact_sect1 h1{
+    font-weight: 700;
+font-size: 30px;
+line-height: 37px;
+color: #FFFFFF
+}
+.contact_info span{
+    font-weight: 500;
+font-size: 26px;
+line-height: 32px;
+color: #FFFFFF;
+}
+.contact_inputs label{
+    font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+color: #FFFFFF
+}
+.contact_sect2 h2{
+    font-weight: 700;
+font-size: 30px;
+line-height: 37px;
+color: #000000
+}
